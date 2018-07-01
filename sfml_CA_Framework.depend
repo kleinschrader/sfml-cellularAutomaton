@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1529614544 source:c:\users\user\documents\codeblocks\sfml_ca_framework\main.cpp
+	"cApplication.h"
+
+1529849102 c:\users\user\documents\codeblocks\sfml_ca_framework\include\capplication.h
+	<SFML/Graphics.hpp>
+	"imgui/imgui.h"
+	"imgui/imgui-SFML.h"
+	"cFPSCounter.h"
+	"cMenuElement.h"
+	"cSimulation.h"
+	"cSpeedlimiter.h"
+	"cBrainsBrain.h"
+	"cConwaysGameOfLife.h"
+	"cSeeds.h"
+	"cPredAndPrey.h"
+	"settings.h"
+
+1529807805 c:\users\user\documents\codeblocks\sfml_ca_framework\include\settings.h
+
+1529865516 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\capplication.cpp
+	"cApplication.h"
+
+1529533197 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cfpscounter.h
+	<SFML/Graphics.hpp>
+	<cTextf.hpp>
+
+1529533223 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cfpscounter.cpp
+	"cFPSCounter.h"
+
+1529621968 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cmenuelement.h
+	<SFML/Graphics.hpp>
+
+1529757694 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cmenuelement.cpp
+	"cMenuElement.h"
+	<stdio.h>
+
+1529625750 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cbriansbrain.h
+	"cBrainsBrainCell.h"
+	"cApplication.h"
+
+1529625308 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cbriansbrain.cpp
+	"cBriansBrain.h"
+
+1529624919 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cbrainsbraincell.h
+
+1529624919 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cbrainsbraincell.cpp
+	"cBrainsBrainCell.h"
+
+1529865529 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\csimulation.cpp
+	"cSimulation.h"
+	<random>
+	<stdio.h>
+
+1529865497 c:\users\user\documents\codeblocks\sfml_ca_framework\include\csimulation.h
+	<SFML/Graphics.hpp>
+	"cSpeedlimiter.h"
+	"settings.h"
+
+1529804018 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cbrainsbrain.cpp
+	"cBrainsBrain.h"
+
+1529759849 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cbrainsbrain.h
+	<random>
+	"cSimulation.h"
+
+1529807692 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cspeedlimiter.h
+	<SFML/Graphics.hpp>
+	"settings.h"
+
+1529807692 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cspeedlimiter.cpp
+	"cSpeedlimiter.h"
+	<stdio.h>
+
+1529758940 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cconwaysgameoflife.h
+	<random>
+	"cSimulation.h"
+
+1529803406 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cconwaysgameoflife.cpp
+	"cConwaysGameOfLife.h"
+
+1529785413 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cseeds.h
+	"cSimulation.h"
+
+1529786583 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cseeds.cpp
+	"cSeeds.h"
+	<stdio.h>
+
+1529799161 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui.h
+	"imconfig.h"
+	<float.h>
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	"imgui_user.h"
+
+1529799498 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imconfig.h
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1529799185 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui-sfml.h
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/Window/Joystick.hpp>
+
+1529799161 source:c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui_demo.cpp
+	"imgui.h"
+	<ctype.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdint.h>
+
+1529799161 source:c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui_draw.cpp
+	"imgui.h"
+	"imgui_internal.h"
+	<stdio.h>
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+	"stb_rect_pack.h"
+	"stb_truetype.h"
+
+1529799161 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui_internal.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	"stb_textedit.h"
+
+1529799161 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\stb_textedit.h
+	<string.h>
+
+1529799161 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1529799161 c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1529799499 source:c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui-sfml.cpp
+	"imgui-SFML.h"
+	<imgui/imgui.h>
+	<SFML/OpenGL.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Window.hpp>
+	<cmath>
+	<cstddef>
+	<cassert>
+	<jni.h>
+	<android/native_activity.h>
+	<SFML/System/NativeActivity.hpp>
+
+1529956891 source:c:\users\user\documents\codeblocks\sfml_ca_framework\src\cpredandprey.cpp
+	"cPredAndPrey.h"
+
+1529883797 c:\users\user\documents\codeblocks\sfml_ca_framework\include\cpredandprey.h
+	<random>
+	"imgui/imgui.h"
+	"imgui-SFML.h"
+	"cSimulation.h"
+
+1529800054 source:c:\users\user\documents\codeblocks\sfml_ca_framework\include\imgui\imgui.cpp
+	<stb_image.h>
+	"imgui.h"
+	"imgui_internal.h"
+	<ctype.h>
+	<stdio.h>
+	<stddef.h>
+	<stdint.h>
+	"stb_textedit.h"
+	<Windows.h>
+	<windows.h>
+	<imm.h>
+	"imgui_user.inl"
+

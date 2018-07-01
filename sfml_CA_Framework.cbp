@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sfml_CA_Framework" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sfml_CA_Framework" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sfml_CA_Framework" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+					<Add library="opengl32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/cApplication.h" />
+		<Unit filename="include/cBrainsBrain.h" />
+		<Unit filename="include/cConwaysGameOfLife.h" />
+		<Unit filename="include/cFPSCounter.h" />
+		<Unit filename="include/cMenuElement.h" />
+		<Unit filename="include/cSeeds.h" />
+		<Unit filename="include/cSimulation.h" />
+		<Unit filename="include/cSpeedlimiter.h" />
+		<Unit filename="include/imgui/imconfig-SFML.h" />
+		<Unit filename="include/imgui/imconfig.h" />
+		<Unit filename="include/imgui/imgui-SFML.cpp" />
+		<Unit filename="include/imgui/imgui-SFML.h" />
+		<Unit filename="include/imgui/imgui.cpp" />
+		<Unit filename="include/imgui/imgui.h" />
+		<Unit filename="include/imgui/imgui_demo.cpp" />
+		<Unit filename="include/imgui/imgui_draw.cpp" />
+		<Unit filename="include/imgui/imgui_internal.h" />
+		<Unit filename="include/imgui/stb_rect_pack.h" />
+		<Unit filename="include/imgui/stb_textedit.h" />
+		<Unit filename="include/imgui/stb_truetype.h" />
+		<Unit filename="include/settings.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/cApplication.cpp" />
+		<Unit filename="src/cBrainsBrain.cpp" />
+		<Unit filename="src/cConwaysGameOfLife.cpp" />
+		<Unit filename="src/cFPSCounter.cpp" />
+		<Unit filename="src/cMenuElement.cpp" />
+		<Unit filename="src/cSeeds.cpp" />
+		<Unit filename="src/cSimulation.cpp" />
+		<Unit filename="src/cSpeedlimiter.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

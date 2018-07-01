@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="44" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cConwaysGameOfLife.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="319" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cConwaysGameOfLife.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cMenuElement.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="231" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cSimulation.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1736" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="src\cBrainsBrain.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1668" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="include\cFPSCounter.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cApplication.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="include\cSeeds.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="168" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\settings.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="181" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cSpeedlimiter.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="218" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\cSimulation.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="398" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cSeeds.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="857" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="include\cApplication.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="662" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="include\cBrainsBrain.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="295" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\imgui\imgui-SFML.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21877" topLine="647" />
+		</Cursor>
+	</File>
+	<File name="include\imgui\imgui.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101135" topLine="1526" />
+		</Cursor>
+	</File>
+	<File name="src\cMenuElement.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="443" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cSpeedlimiter.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="611" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\cFPSCounter.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="598" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
